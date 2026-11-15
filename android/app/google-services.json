@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550043265235",
+    "project_id": "campusvoice-aef3d",
+    "storage_bucket": "campusvoice-aef3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550043265235:android:e3758538fc244f43b34c26",
+        "android_client_info": {
+          "package_name": "com.example.campusvoiceproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYqbvBmii9Jre7PRjUDIQ4wgqzpPBSi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
